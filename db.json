@@ -1,0 +1,27 @@
+{
+  "product": [
+    {
+      "name": "Algodão Doce",
+      "description": "Açucar colorido",
+      "price": "R$ 5,00",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771599.png",
+      "disponivel": true
+    },
+
+    {
+      "name": "Rosquinha",
+      "description": "Tipo donuts",
+      "price": "R$ 8,00",
+      "thumbnail": "src={picole}",
+      "disponivel": true
+    },
+
+    {
+      "name": "Picolé",
+      "description": "Parece chocolate",
+      "price": "R$ 7,00",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771605.png",
+      "disponivel": true
+    }
+  ]
+}
