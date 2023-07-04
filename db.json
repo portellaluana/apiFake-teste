@@ -1,27 +1,24 @@
 {
   "product": [
     {
-      "name": "Algodão Doce",
-      "description": "Açucar colorido",
-      "price": "R$ 5,00",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771599.png",
-      "disponivel": true
-    },
-
-    {
-      "name": "Rosquinha",
-      "description": "Tipo donuts",
+      "title": "Abacate",
+      "description": "Açucar sabor verde",
       "price": "R$ 8,00",
-      "thumbnail": "src={picole}",
-      "disponivel": true
+      "thumbnail": "https://i.ibb.co/DR2NfQt/ice-abacate.png"
     },
 
     {
-      "name": "Picolé",
-      "description": "Parece chocolate",
-      "price": "R$ 7,00",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771605.png",
-      "disponivel": true
+      "title": "Morango",
+      "description": "Açucar sabor rosa",
+      "price": "R$ 8,00",
+      "thumbnail": "https://i.ibb.co/4sgPF6j/ice-morango.png"
+    },
+
+    {
+      "title": "Abacaxi",
+      "description": "Açucar sabor amarelo",
+      "price": "R$ 8,00",
+      "thumbnail": "https://i.ibb.co/DRRrM0y/ice-abacaxi.png"
     }
   ]
 }
