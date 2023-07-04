@@ -11,21 +11,18 @@
       "description": "Tipo donuts",
       "price": "R$ 5,00",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771599.png"
-    }
-
+    },
     {
       "title": "Picolé de chocolate",
       "description": "Parece chocolate",
       "price": "R$ 6,00",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771605.png"
     },
-
     {
       "title": "Croissant",
       "description": "Sem recheio",
       "price": "R$ 3,00",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771681.png"
     },
-    
   ]
 }
