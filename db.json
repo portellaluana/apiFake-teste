@@ -2,7 +2,7 @@
   "product": [
     {
       "id":1,
-      "title": "Algodão Doce",
+      "title": "Algodão",
       "description": "Açucar colorido",
       "price": 2.13,
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771446.png"
@@ -16,7 +16,7 @@
     },
     {
       "id":3,
-      "title": "Picolé de chocolate",
+      "title": "Picolé",
       "description": "Parece chocolate",
       "price": 6.38,
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771605.png"
