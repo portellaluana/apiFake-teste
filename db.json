@@ -5,28 +5,32 @@
       "title": "Algodão doce",
       "description": "Açucar colorido",
       "price": 2.13,
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771446.png"
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771446.png",
+      "quantidade": 1
     },
     {
       "id":2,
       "title": "Rosquinha",
       "description": "Tipo donuts",
       "price": 5.45,
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771599.png"
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771599.png",
+      "quantidade": 1
     },
     {
       "id":3,
       "title": "Picolé",
       "description": "Sabor chocolate",
       "price": 6.38,
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771605.png"
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771605.png",
+      "quantidade": 1
     },
     {
       "id":4,
       "title": "Croissant",
       "description": "Sem recheio",
       "price": 3.99,
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771681.png"
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771681.png",
+      "quantidade": 1
     }
   ]
 }
