@@ -6,7 +6,7 @@
       "description": "Açucar colorido",
       "price": 2.13,
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771446.png",
-      "quantidade": 1
+      "quantity": 1
     },
     {
       "id":2,
@@ -14,7 +14,7 @@
       "description": "Tipo donuts",
       "price": 5.45,
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771599.png",
-      "quantidade": 1
+      "quantity": 1
     },
     {
       "id":3,
@@ -22,7 +22,7 @@
       "description": "Sabor chocolate",
       "price": 6.38,
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771605.png",
-      "quantidade": 1
+      "quantity": 1
     },
     {
       "id":4,
@@ -30,7 +30,7 @@
       "description": "Sem recheio",
       "price": 3.99,
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/4771/4771681.png",
-      "quantidade": 1
+      "quantity": 1
     }
   ]
 }
